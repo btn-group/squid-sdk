@@ -1,0 +1,8 @@
+{
+  "outDir": "../gen/kusama/src",
+  "specVersions": "../../data/chain/kusama/versions.jsonl",
+  "events": true,
+  "calls": true,
+  "storage": true,
+  "constants": true
+}

@@ -19,6 +19,3 @@ common/autoinstallers/*/.npmrc
 
 # IDE
 .idea
-
-# Built js libs
-/*/*/lib

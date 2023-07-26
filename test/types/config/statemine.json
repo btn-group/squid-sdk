@@ -1,0 +1,8 @@
+{
+  "outDir": "../gen/statemine/src",
+  "specVersions": "../../data/chain/statemine/versions.jsonl",
+  "events": true,
+  "calls": true,
+  "storage": true,
+  "constants": true
+}
